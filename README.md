@@ -10,6 +10,15 @@ Analysis of the [Olist Brazilian e-commerce dataset](https://www.kaggle.com/data
 - About 6.8% of delivered orders arrive late, but those orders get much worse reviews: 2.27 stars on average vs 4.29 for on-time orders, and 54% of their reviews are 1 star.
 - Late delivery depends a lot on the state. In SP about 4.5% of orders are late, in RJ about 12%.
 - November 2017 is the biggest month (7,544 orders), which is Black Friday.
+- Late deliveries come in spikes: 12.4% in November 2017 and 14–19% in February–March 2018, while most months stay under 7%.
+
+## Dashboard
+
+![Sales by month](images/dashboard_sales.png)
+
+![Delivery](images/dashboard_delivery.png)
+
+![Top categories](images/dashboard_categories.png)
 
 ## Files
 
