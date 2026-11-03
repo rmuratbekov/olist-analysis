@@ -20,7 +20,6 @@ Analysis of the [Olist Brazilian e-commerce dataset](https://www.kaggle.com/data
 | `bot.py` | Telegram bot |
 | `dashboard.py` | Streamlit dashboard |
 | `test_queries.py` | checks every query against numbers calculated separately in pandas |
-| `notebooks/` | exploration notebooks |
 
 ## How to run
 
