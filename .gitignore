@@ -1,0 +1,9 @@
+# token
+.env
+
+# data is downloaded from Kaggle, not stored in the repo
+data/
+*.csv
+
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+duckdb
+pandas
+streamlit
+altair
+python-telegram-bot
+python-dotenv
